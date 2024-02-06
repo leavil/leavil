@@ -1,6 +1,6 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic about technology, I am looking to join development teams in software engineering, robotics or computer vision, with a special focus on software or development, with a focus on artificial intelligence and Data Science. My experience with Python (Jupyter Lab) supports my ability to create and improve technological proposals. I am an enthusiastic researcher, always curious to learn how the latest technologies work and how they can be customized to optimize results. Willing to learn new technologies, I aspire to contribute to dynamic teams committed to innovation and the development of disruptive solutions.
+Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic about technology, I'm hoping to work in development teams that specialize in software engineering, robotics, or computer vision, with an emphasis on artificial intelligence and data science. My knowledge of Python and Jupyter Lab helps me to develop and enhance technical ideas. I have a strong interest in research and am constantly fascinated to find out how the newest technologies operate and may be tailored to get the best outcomes. I'm eager to pick up new skills and hope to be a valuable member of creative teams that are focused on creating game-changing solutions.
 
 ## About Me
 
