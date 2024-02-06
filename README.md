@@ -1,11 +1,11 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic about technology and code. I love learning new things and sharing knowledge with the community.
+Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic about technology, I am looking to join development teams in software engineering, robotics or computer vision, with a special focus on software or development, with a focus on artificial intelligence and Data Science. My experience with Python (Jupyter Lab) supports my ability to create and improve technological proposals. I am an enthusiastic researcher, always curious to learn how the latest technologies work and how they can be customized to optimize results. Willing to learn new technologies, I aspire to contribute to dynamic teams committed to innovation and the development of disruptive solutions.
 
 ## About Me
 
-- 💻 Currently studying on UPC.
-- 🌱 Learning Python.
+- 💻 Currently studying on UPC - EEBE.
+- 🌱 Learning Python for IA & Data Science.
 - 👯 Looking to collaborate on open-source projects.
 - 📫 You can reach me at arnaugonzalezalmirall@gmail.com 
 
@@ -22,7 +22,7 @@ Here are some of the technologies I'm familiar with:
 
 Here are some featured projects I've worked on:
 
-- [PID](link_to_project)
+- [PID](https://github.com/leavil/pid-ball-beam)
 
 ## GitHub Statistics
 
