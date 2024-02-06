@@ -1,13 +1,13 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm Arnau, a passionate developer enthusiastic about technology and clean code. I love learning new things and sharing knowledge with the community.
+Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic about technology and code. I love learning new things and sharing knowledge with the community.
 
 ## About Me
 
-- 💻 Currently working on [project or company].
-- 🌱 Learning [technology or programming language].
+- 💻 Currently studying on UPC.
+- 🌱 Learning Python.
 - 👯 Looking to collaborate on open-source projects.
-- 📫 You can reach me at [your email].
+- 📫 You can reach me at arnaugonzalezalmirall@gmail.com 
 
 ## Technologies
 
@@ -22,9 +22,7 @@ Here are some of the technologies I'm familiar with:
 
 Here are some featured projects I've worked on:
 
-- [Project 1](link_to_project)
-- [Project 2](link_to_project)
-- [Project 3](link_to_project)
+- [PID](link_to_project)
 
 ## GitHub Statistics
 
