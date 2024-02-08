@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic abou
 ## About Me
 
 - 💻 Currently studying on UPC - EEBE.
-- 🌱 Learning Python for IA & Data Science.
+- 🌱 Learning Python for AI & Data Science.
 - 👯 Looking to collaborate on open-source projects.
 - 📫 You can reach me at arnaugonzalezalmirall@gmail.com 
 
