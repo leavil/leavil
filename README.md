@@ -23,6 +23,7 @@ Here are some of the technologies I'm familiar with:
 Here are some featured projects I've worked on:
 
 - [PID](https://github.com/leavil/pid-ball-beam)
+- [QRGen](https://github.com/leavil/QRGen)
 
 ## GitHub Statistics
 
