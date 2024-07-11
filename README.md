@@ -25,6 +25,7 @@ Here are some featured projects I've worked on:
 
 - [PID](https://github.com/leavil/pid-ball-beam)
 - [QRGen](https://github.com/leavil/QRGen)
+- [FlyCast](https://github.com/leavil/flycast)
 
 ## GitHub Statistics
 
