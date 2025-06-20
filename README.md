@@ -55,6 +55,64 @@ Here are some featured projects I've worked on:
 ## GitHub Statistics
 
 [![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=leavil&show_icons=true&theme=radical)](https://github.com/leavil)
+# GitHub Statistics Dashboard
+
+Welcome to my GitHub profile! Here you can find some statistics about my repositories and contributions.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=leavil&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leavil&theme=dark)
+
+---
+
+## 💬 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leavil&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=leavil&theme=onedark)
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Send%20Message-red)](mailto:youremail@example.com)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Pinned Repositories
+
+Here are some of my featured projects:
+
+| Project | Description | Stars | Forks |
+|--------|-------------|-------|-------|
+| [iStoX](https://github.com/leavil/iStoX) | Public stock analyzer | ![Stars](https://img.shields.io/github/stars/leavil/iStoX) | ![Forks](https://img.shields.io/github/forks/leavil/iStoX) |
+| [opt_rev](https://github.com/leavil/opt_rev) | Optimization techniques for TSP | ![Stars](https://img.shields.io/github/stars/leavil/opt_rev) | ![Forks](https://img.shields.io/github/forks/leavil/opt_rev) |
+| [coche-autonomo](https://github.com/leavil/coche-autonomo) | Autonomous car project | ![Stars](https://img.shields.io/github/stars/leavil/coche-autonomo) | ![Forks](https://img.shields.io/github/forks/leavil/coche-autonomo) |
+
 
 ## Let's Connect!
 
