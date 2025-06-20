@@ -12,20 +12,35 @@ Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic abou
 
 ## Technologies
 
-Here are some of the technologies I'm familiar with:
+## Technologies
 
-- **Programming Languages:** C, Python, C++, Java
-- **Frameworks & Libraries:** Numpy, Pandas, Keras, SciPy, MatplotLib
-- **Databases:** SQL
-- **Development Tools:** Git, Jupyter Lab, VS Code
+Here are some of the technologies I'm familiar with:
+   Category | Technologies |
+ | - | - |
+ | Programming Languages | C, Python, C++, Java |
+ | Frameworks & Libraries | NumPy, Pandas, Keras, SciPy, Matplotlib |
+ | Databases | SQL |
+ | Development Tools | Git, Jupyter Lab, VS Code |
+ | Additional Technologies | Spring, Java API, Maven, Batch |
 
 ## Featured Projects
 
 Here are some featured projects I've worked on:
 
-- [PID](https://github.com/leavil/pid-ball-beam)
-- [QRGen](https://github.com/leavil/QRGen)
-- [FlyCast](https://github.com/leavil/flycast)
+| Project Name | Description | Last Updated | Purpose |
+| - | - | - | - |
+| [iStoX](https://github.com/leavil/iStoX) | Public stock analyzer | 2 days ago | |
+| [opt_rev](https://github.com/leavil/opt_rev) | Jupyter Notebook | 2 weeks ago | **AI** |
+| [lab_clustering](https://github.com/leavil/lab_clustering) | Jupyter Notebook | 2 weeks ago | **AI** |
+| [gen_gpt2](https://github.com/leavil/gen_gpt2) | Jupyter Notebook | 3 weeks ago | **AI** |
+| [quality_air_barcelona](https://github.com/leavil/quality_air_barcelona) | Este repositorio contiene un análisis exploratorio de datos (EDA) sobre la evolución de los contaminantes en Barcelona, con especial enfoque en el ozono (O₃). | Last month | **AI** |
+| [gapminder](https://github.com/leavil/gapminder) | Jupyter Notebook | Mar 7 | **AI** |
+| [AI-and-data-analysis-subject-and-projects](https://github.com/GermanBuenoLozano/AI-and-data-analysis-subject-and-projects) | | | **AI** |
+| [PID](https://github.com/leavil/pid-ball-beam) | | | |
+| [QRGen](https://github.com/leavil/QRGen) | | | |
+| [FlyCast](https://github.com/leavil/flycast) | | | |
+| [coche-autonomo](https://github.com/leavil/coche-autonomo) | | | |
+
 
 ## GitHub Statistics
 
