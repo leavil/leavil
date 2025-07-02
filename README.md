@@ -5,8 +5,6 @@ Welcome to my GitHub profile! I'm Arnau, a passionate engineer enthusiastic abou
 ---
 
 ## About Me
-
-- 💻 Currently studying on UPC - EEBE.
 - 👩‍💻 Currently working on NTT DATA as Software Engineer.
 - 🌱 Learning Python for AI & Data Science.
 - 👯 Looking to collaborate on open-source projects.
